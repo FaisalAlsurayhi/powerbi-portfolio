@@ -4,7 +4,7 @@ This repository contains my Power BI dashboard projects. I use these projects to
 
 The goal is to show how I approach a business question, build a simple reporting structure, and turn raw data into visuals that are easier to understand.
 
-This repo is part of my broader data analytics portfolio focused on Saudi and Eastern Province business topics.
+This repo is part of my broader data analytics portfolio, which mostly focuses on Saudi and Eastern Province business topics.
 
 ## Tools Used
 
@@ -34,6 +34,6 @@ Each project folder includes its own README with more details, screenshots, and 
 
 ## Related Portfolio Repositories
 
-- [Nitaqat Workforce SQL Analysis](https://github.com/FaisalAlsurayhi/nitaqat-workforce-sql): SQL analysis of Saudization compliance across Eastern Province companies.
-- [Applied Econometrics](https://github.com/FaisalAlsurayhi/applied-econometrics): Python regression projects covering OLS, model comparison, and robust inference.
-- [Crude Oil Price Analysis](https://github.com/FaisalAlsurayhi/crude-oil-price-analysis): Python and Plotly analysis of Brent and WTI oil price trends.
+- [Nitaqat Workforce SQL Analysis](https://github.com/FaisalAlsurayhi/nitaqat-workforce-sql): a SQL project about Saudization compliance across Eastern Province companies.
+- [Applied Econometrics](https://github.com/FaisalAlsurayhi/applied-econometrics): Python regression projects from my economics coursework and self-study.
+- [Crude Oil Price Analysis](https://github.com/FaisalAlsurayhi/crude-oil-price-analysis): a Python and Plotly project looking at Brent and WTI oil price trends.
