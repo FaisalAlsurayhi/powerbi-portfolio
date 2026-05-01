@@ -1,0 +1,42 @@
+# Windows and macOS system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# OneDrive / Office temporary files
+~$*
+*.tmp
+*.temp
+
+# Power BI local/cache artifacts
+*.pbit.cache
+*.pbix.cache
+*.pbix.tmp
+*.pbiCache
+*.abf
+*.log
+
+# Power BI Desktop auto-recovery / backup exports
+AutoRecovery/
+*.bak
+
+# Python / notebook cache files, if used for data prep
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.venv/
+venv/
+
+# Large generated exports that can be recreated
+exports/
+output/
+outputs/
+
+# Keep portfolio source files trackable:
+# - .pbix reports
+# - screenshots
+# - README files
+# - cleaned CSV/Excel files that are safe to share
