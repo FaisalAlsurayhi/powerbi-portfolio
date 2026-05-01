@@ -1,0 +1,73 @@
+Month,Region,Category,CPI_Index,Inflation_Rate,Household_Spending_SAR_M,Retail_Sales_SAR_M,Purchasing_Power_Index
+2024-01,Central,Food and Beverages,106.2,2.8,1840,2310,97.6
+2024-01,Central,Housing and Utilities,108.7,3.6,2210,1750,96.8
+2024-01,Central,Transport,104.4,1.9,1320,1640,98.4
+2024-01,Central,Retail Goods,105.1,2.3,1580,2480,98.0
+2024-01,Western,Food and Beverages,106.8,3.1,1760,2190,97.2
+2024-01,Western,Housing and Utilities,109.1,3.8,2050,1680,96.5
+2024-01,Western,Transport,104.8,2.1,1280,1520,98.1
+2024-01,Western,Retail Goods,105.7,2.6,1490,2350,97.7
+2024-01,Eastern,Food and Beverages,105.9,2.5,1620,2050,97.9
+2024-01,Eastern,Housing and Utilities,107.8,3.2,1940,1590,97.1
+2024-01,Eastern,Transport,104.1,1.7,1210,1480,98.6
+2024-01,Eastern,Retail Goods,104.9,2.1,1430,2240,98.2
+2024-02,Central,Food and Beverages,106.6,3.0,1875,2365,97.4
+2024-02,Central,Housing and Utilities,109.0,3.7,2245,1785,96.6
+2024-02,Central,Transport,104.6,2.0,1340,1665,98.3
+2024-02,Central,Retail Goods,105.3,2.4,1605,2520,97.9
+2024-02,Western,Food and Beverages,107.1,3.2,1795,2230,97.0
+2024-02,Western,Housing and Utilities,109.5,4.0,2080,1715,96.2
+2024-02,Western,Transport,105.0,2.2,1305,1550,98.0
+2024-02,Western,Retail Goods,105.9,2.7,1515,2395,97.5
+2024-02,Eastern,Food and Beverages,106.2,2.7,1650,2090,97.7
+2024-02,Eastern,Housing and Utilities,108.2,3.4,1970,1625,96.9
+2024-02,Eastern,Transport,104.3,1.8,1235,1510,98.5
+2024-02,Eastern,Retail Goods,105.1,2.2,1455,2280,98.1
+2024-03,Central,Food and Beverages,107.0,3.3,1910,2410,97.1
+2024-03,Central,Housing and Utilities,109.4,3.9,2285,1815,96.4
+2024-03,Central,Transport,104.9,2.2,1375,1690,98.0
+2024-03,Central,Retail Goods,105.7,2.6,1640,2580,97.6
+2024-03,Western,Food and Beverages,107.6,3.5,1830,2275,96.8
+2024-03,Western,Housing and Utilities,110.0,4.2,2125,1745,95.9
+2024-03,Western,Transport,105.3,2.4,1335,1580,97.8
+2024-03,Western,Retail Goods,106.3,2.9,1550,2440,97.2
+2024-03,Eastern,Food and Beverages,106.5,2.9,1685,2135,97.5
+2024-03,Eastern,Housing and Utilities,108.6,3.6,2010,1655,96.7
+2024-03,Eastern,Transport,104.6,2.0,1265,1535,98.3
+2024-03,Eastern,Retail Goods,105.4,2.4,1485,2325,97.8
+2024-04,Central,Food and Beverages,107.4,3.5,1945,2460,96.9
+2024-04,Central,Housing and Utilities,109.8,4.1,2320,1850,96.1
+2024-04,Central,Transport,105.2,2.4,1400,1725,97.8
+2024-04,Central,Retail Goods,106.0,2.8,1675,2635,97.4
+2024-04,Western,Food and Beverages,108.0,3.7,1865,2320,96.5
+2024-04,Western,Housing and Utilities,110.4,4.4,2165,1780,95.6
+2024-04,Western,Transport,105.6,2.6,1360,1610,97.5
+2024-04,Western,Retail Goods,106.7,3.1,1585,2490,96.9
+2024-04,Eastern,Food and Beverages,106.9,3.1,1715,2180,97.2
+2024-04,Eastern,Housing and Utilities,109.0,3.8,2045,1690,96.4
+2024-04,Eastern,Transport,104.9,2.2,1290,1565,98.1
+2024-04,Eastern,Retail Goods,105.8,2.6,1515,2370,97.5
+2024-05,Central,Food and Beverages,107.7,3.6,1980,2515,96.7
+2024-05,Central,Housing and Utilities,110.2,4.3,2365,1885,95.8
+2024-05,Central,Transport,105.4,2.5,1425,1760,97.6
+2024-05,Central,Retail Goods,106.4,3.0,1710,2690,97.1
+2024-05,Western,Food and Beverages,108.4,3.9,1905,2375,96.2
+2024-05,Western,Housing and Utilities,110.9,4.6,2210,1815,95.3
+2024-05,Western,Transport,105.9,2.8,1390,1645,97.2
+2024-05,Western,Retail Goods,107.1,3.3,1620,2545,96.6
+2024-05,Eastern,Food and Beverages,107.2,3.3,1750,2225,97.0
+2024-05,Eastern,Housing and Utilities,109.4,4.0,2085,1725,96.1
+2024-05,Eastern,Transport,105.1,2.3,1320,1595,97.9
+2024-05,Eastern,Retail Goods,106.1,2.8,1545,2420,97.3
+2024-06,Central,Food and Beverages,108.1,3.8,2015,2570,96.4
+2024-06,Central,Housing and Utilities,110.6,4.5,2400,1920,95.5
+2024-06,Central,Transport,105.7,2.7,1450,1795,97.4
+2024-06,Central,Retail Goods,106.8,3.2,1745,2740,96.8
+2024-06,Western,Food and Beverages,108.8,4.1,1940,2425,95.9
+2024-06,Western,Housing and Utilities,111.3,4.8,2250,1850,95.0
+2024-06,Western,Transport,106.2,3.0,1420,1680,96.9
+2024-06,Western,Retail Goods,107.5,3.5,1655,2595,96.3
+2024-06,Eastern,Food and Beverages,107.6,3.5,1785,2270,96.7
+2024-06,Eastern,Housing and Utilities,109.8,4.2,2125,1760,95.8
+2024-06,Eastern,Transport,105.4,2.5,1345,1630,97.6
+2024-06,Eastern,Retail Goods,106.5,3.0,1580,2470,97.0

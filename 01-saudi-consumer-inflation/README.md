@@ -17,9 +17,13 @@ The project is more focused on dashboard-building and analysis practice than on 
 
 ## Dataset Description
 
-The dataset is stored in the project `data` folder.
+The dataset is stored in the project `data` folder:
 
-It is intended to represent consumer inflation, household spending, and retail trend data related to Saudi Arabia. The dashboard uses this data to build summary KPIs, trend visuals, and comparison views.
+- `saudi_consumer_inflation_sample.csv`
+
+This is synthetic sample data created for portfolio practice. It is intended to represent consumer inflation, household spending, and retail trend data related to Saudi Arabia, but it should not be treated as official economic data.
+
+The dashboard uses this data structure to build summary KPIs, trend visuals, and comparison views.
 
 The main Power BI file is:
 
@@ -70,7 +74,8 @@ Some of the main insights this dashboard is built to explore:
 
 ## Limitations
 
-- The dashboard depends on the available dataset, so the analysis is limited by the columns and time period included.
+- The dashboard uses synthetic portfolio data, so the numbers are for practice and presentation only.
+- The analysis is limited by the columns and time period included in the sample dataset.
 - Some measures and insights may need more context from official economic sources before being used for real business decisions.
 - This is a portfolio project, so the focus is on showing Power BI skills and analysis structure.
 - The `.pbix` file is included, but Power BI Desktop is required to open and explore it fully.
