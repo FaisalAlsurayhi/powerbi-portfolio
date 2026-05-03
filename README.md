@@ -18,6 +18,7 @@ This repo is part of my broader data analytics portfolio, which mostly focuses o
 | Project | Description |
 | --- | --- |
 | [Saudi Consumer Inflation Dashboard](01-saudi-consumer-inflation/) | A Power BI dashboard looking at inflation, household purchasing power, consumer spending, and retail trends in Saudi Arabia. |
+| [Eastern Province Real Estate Market Dashboard](02-eastern-province-real-estate-dashboard/) | A Power BI dashboard analyzing sales value, transaction activity, pricing, and property mix across Eastern Province cities. |
 
 ## What I Try To Show In Each Dashboard
 

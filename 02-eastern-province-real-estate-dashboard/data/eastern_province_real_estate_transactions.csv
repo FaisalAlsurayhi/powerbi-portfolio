@@ -1,0 +1,593 @@
+Transaction_ID,Date,City,District,Property_Type,Segment,Area_sqm,Sale_Price_SAR,Price_per_sqm,Transaction_Type
+EP-10001,2024-01-16,Khobar,Al Khuzama,Apartment,Residential,201,1221000,6075,Sale
+EP-10002,2024-01-10,Khobar,Corniche,Commercial Unit,Commercial,157,1512000,9630,Resale
+EP-10003,2024-01-07,Khobar,Corniche,Villa,Residential,259,1429000,5517,Sale
+EP-10004,2024-01-18,Khobar,Al Khuzama,Commercial Unit,Commercial,207,2063000,9967,Sale
+EP-10005,2024-01-07,Khobar,Al Olaya,Apartment,Residential,135,752000,5573,Sale
+EP-10006,2024-01-11,Khobar,Al Rakah,Villa,Residential,503,2709000,5385,Resale
+EP-10007,2024-01-11,Khobar,Al Rakah,Residential Land,Residential,573,1823000,3182,Resale
+EP-10008,2024-01-18,Khobar,Al Olaya,Residential Land,Residential,498,1415000,2841,Sale
+EP-10009,2024-01-06,Khobar,Al Khuzama,Apartment,Residential,130,696000,5351,Sale
+EP-10010,2024-01-02,Khobar,Al Olaya,Apartment,Residential,196,1078000,5501,Sale
+EP-10011,2024-01-06,Khobar,Al Rakah,Residential Land,Residential,371,1045000,2818,Resale
+EP-10012,2024-01-16,Khobar,Al Aqrabiyah,Apartment,Residential,153,959000,6269,Sale
+EP-10013,2024-01-20,Khobar,Corniche,Residential Land,Residential,319,1092000,3422,Sale
+EP-10014,2024-01-24,Khobar,Al Khuzama,Commercial Land,Commercial,900,4659000,5177,Resale
+EP-10015,2024-01-12,Dammam,Al Badiyah,Residential Land,Residential,350,953000,2723,Resale
+EP-10016,2024-01-25,Dammam,Al Manar,Apartment,Residential,172,916000,5326,Sale
+EP-10017,2024-01-11,Dammam,Al Faisaliyah,Villa,Residential,290,1228000,4233,Resale
+EP-10018,2024-01-10,Dammam,Al Manar,Residential Land,Residential,629,1453000,2310,Sale
+EP-10019,2024-01-22,Dammam,Al Badiyah,Apartment,Residential,171,967000,5654,Sale
+EP-10020,2024-01-02,Dammam,Al Faisaliyah,Apartment,Residential,204,873000,4280,Resale
+EP-10021,2024-01-08,Dammam,Al Adamah,Commercial Land,Commercial,1433,5749000,4012,Resale
+EP-10022,2024-01-12,Dammam,Al Badiyah,Commercial Land,Commercial,1500,6418000,4279,Sale
+EP-10023,2024-01-03,Dammam,Al Faisaliyah,Apartment,Residential,156,834000,5348,Sale
+EP-10024,2024-01-17,Dammam,Al Adamah,Apartment,Residential,116,611000,5270,Sale
+EP-10025,2024-01-10,Dammam,Al Faisaliyah,Apartment,Residential,187,857000,4584,Sale
+EP-10026,2024-01-11,Dammam,Al Manar,Residential Land,Residential,899,2504000,2785,Sale
+EP-10027,2024-01-26,Dammam,Al Adamah,Villa,Residential,268,1285000,4795,Sale
+EP-10028,2024-01-24,Dammam,Al Adamah,Villa,Residential,276,1159000,4198,Sale
+EP-10029,2024-01-24,Dammam,Al Adamah,Apartment,Residential,190,1028000,5410,Sale
+EP-10030,2024-01-26,Dammam,Al Shati,Apartment,Residential,172,810000,4708,Sale
+EP-10031,2024-01-19,Dhahran,University Area,Apartment,Residential,207,1194000,5768,Resale
+EP-10032,2024-01-09,Dhahran,Doha,Villa,Residential,642,3533000,5503,Sale
+EP-10033,2024-01-11,Dhahran,Doha,Villa,Residential,585,2783000,4758,Sale
+EP-10034,2024-01-18,Dhahran,University Area,Residential Land,Residential,349,1108000,3176,Sale
+EP-10035,2024-01-12,Dhahran,Al Qusur,Apartment,Residential,164,1134000,6914,Sale
+EP-10036,2024-01-18,Dhahran,Doha,Apartment,Residential,146,797000,5462,Sale
+EP-10037,2024-01-25,Dhahran,Doha,Apartment,Residential,126,763000,6058,Resale
+EP-10038,2024-01-06,Dhahran,Al Qusur,Apartment,Residential,186,1242000,6678,Resale
+EP-10039,2024-01-09,Dhahran,Doha,Villa,Residential,263,1378000,5239,Sale
+EP-10040,2024-01-08,Jubail,Jalmudah,Apartment,Residential,166,781000,4703,Sale
+EP-10041,2024-01-17,Jubail,Al Huwaylat,Apartment,Residential,100,427000,4271,Resale
+EP-10042,2024-01-03,Jubail,Jubail Downtown,Apartment,Residential,130,592000,4555,Sale
+EP-10043,2024-01-14,Jubail,Jalmudah,Apartment,Residential,155,808000,5215,Resale
+EP-10044,2024-01-05,Jubail,Fanateer,Commercial Land,Commercial,552,1883000,3412,Resale
+EP-10045,2024-01-08,Jubail,Fanateer,Apartment,Residential,109,461000,4233,Sale
+EP-10046,2024-01-26,Jubail,Jubail Downtown,Commercial Land,Commercial,685,2718000,3968,Sale
+EP-10047,2024-01-03,Jubail,Al Huwaylat,Commercial Land,Commercial,814,3169000,3893,Sale
+EP-10048,2024-01-07,Jubail,Jalmudah,Villa,Residential,322,1220000,3790,Sale
+EP-10049,2024-01-13,Jubail,Fanateer,Commercial Unit,Commercial,338,1948000,5762,Sale
+EP-10050,2024-02-23,Khobar,Al Aqrabiyah,Residential Land,Residential,821,2513000,3061,Sale
+EP-10051,2024-02-20,Khobar,Al Aqrabiyah,Villa,Residential,288,1443000,5012,Resale
+EP-10052,2024-02-18,Khobar,Corniche,Apartment,Residential,209,1488000,7120,Resale
+EP-10053,2024-02-05,Khobar,Al Khuzama,Apartment,Residential,95,561000,5902,Resale
+EP-10054,2024-02-09,Khobar,Al Olaya,Residential Land,Residential,480,1536000,3201,Sale
+EP-10055,2024-02-19,Khobar,Al Rakah,Residential Land,Residential,442,1525000,3451,Resale
+EP-10056,2024-02-07,Khobar,Al Olaya,Apartment,Residential,148,814000,5501,Sale
+EP-10057,2024-02-23,Khobar,Al Aqrabiyah,Apartment,Residential,177,1071000,6052,Sale
+EP-10058,2024-02-11,Khobar,Al Aqrabiyah,Apartment,Residential,120,666000,5546,Sale
+EP-10059,2024-02-26,Khobar,Corniche,Apartment,Residential,92,541000,5876,Sale
+EP-10060,2024-02-03,Khobar,Al Aqrabiyah,Villa,Residential,494,2503000,5067,Sale
+EP-10061,2024-02-22,Khobar,Al Aqrabiyah,Commercial Unit,Commercial,271,2119000,7821,Sale
+EP-10062,2024-02-03,Khobar,Al Khuzama,Villa,Residential,357,1789000,5011,Sale
+EP-10063,2024-02-15,Khobar,Al Khuzama,Apartment,Residential,110,604000,5488,Sale
+EP-10064,2024-02-15,Dammam,Al Manar,Residential Land,Residential,447,1195000,2673,Resale
+EP-10065,2024-02-20,Dammam,Al Faisaliyah,Apartment,Residential,86,407000,4737,Sale
+EP-10066,2024-02-14,Dammam,Al Adamah,Villa,Residential,258,1114000,4318,Sale
+EP-10067,2024-02-19,Dammam,Al Manar,Residential Land,Residential,331,975000,2946,Resale
+EP-10068,2024-02-12,Dammam,Al Adamah,Villa,Residential,287,1359000,4734,Sale
+EP-10069,2024-02-03,Dammam,Al Faisaliyah,Commercial Unit,Commercial,131,997000,7607,Sale
+EP-10070,2024-02-01,Dammam,Al Faisaliyah,Residential Land,Residential,805,1868000,2320,Resale
+EP-10071,2024-02-11,Dammam,Al Badiyah,Commercial Unit,Commercial,276,1960000,7101,Sale
+EP-10072,2024-02-25,Dammam,Al Adamah,Apartment,Residential,194,1093000,5636,Resale
+EP-10073,2024-02-12,Dammam,Al Adamah,Villa,Residential,597,2785000,4665,Sale
+EP-10074,2024-02-21,Dammam,Al Badiyah,Residential Land,Residential,380,1033000,2718,Sale
+EP-10075,2024-02-14,Dammam,Al Shati,Villa,Residential,464,2018000,4349,Sale
+EP-10076,2024-02-25,Dammam,Al Adamah,Commercial Unit,Commercial,198,1541000,7781,Sale
+EP-10077,2024-02-17,Dammam,Al Adamah,Villa,Residential,335,1549000,4624,Resale
+EP-10078,2024-02-21,Dammam,Al Adamah,Apartment,Residential,178,1082000,6080,Sale
+EP-10079,2024-02-14,Dammam,Al Faisaliyah,Villa,Residential,409,1542000,3770,Sale
+EP-10080,2024-02-08,Dhahran,University Area,Apartment,Residential,138,948000,6870,Resale
+EP-10081,2024-02-18,Dhahran,University Area,Residential Land,Residential,726,2587000,3563,Sale
+EP-10082,2024-02-11,Dhahran,Doha,Villa,Residential,371,1734000,4673,Sale
+EP-10083,2024-02-07,Dhahran,Dana,Apartment,Residential,114,793000,6959,Sale
+EP-10084,2024-02-09,Dhahran,Dana,Apartment,Residential,183,1278000,6986,Sale
+EP-10085,2024-02-15,Dhahran,Al Qusur,Villa,Residential,241,1177000,4885,Sale
+EP-10086,2024-02-12,Dhahran,University Area,Residential Land,Residential,848,3166000,3733,Resale
+EP-10087,2024-02-03,Dhahran,Doha,Apartment,Residential,128,733000,5728,Resale
+EP-10088,2024-02-12,Dhahran,Dana,Villa,Residential,474,2465000,5200,Sale
+EP-10089,2024-02-21,Jubail,Al Huwaylat,Villa,Residential,250,985000,3940,Resale
+EP-10090,2024-02-20,Jubail,Jalmudah,Residential Land,Residential,482,1061000,2202,Sale
+EP-10091,2024-02-03,Jubail,Al Huwaylat,Apartment,Residential,205,842000,4107,Resale
+EP-10092,2024-02-09,Jubail,Al Huwaylat,Apartment,Residential,104,530000,5100,Sale
+EP-10093,2024-02-03,Jubail,Fanateer,Apartment,Residential,205,1056000,5149,Sale
+EP-10094,2024-02-27,Jubail,Al Huwaylat,Apartment,Residential,133,552000,4148,Sale
+EP-10095,2024-02-19,Jubail,Fanateer,Apartment,Residential,194,834000,4299,Resale
+EP-10096,2024-02-22,Jubail,Fanateer,Residential Land,Residential,548,1391000,2539,Sale
+EP-10097,2024-02-16,Jubail,Fanateer,Apartment,Residential,114,580000,5088,Sale
+EP-10098,2024-02-09,Jubail,Al Huwaylat,Commercial Land,Commercial,1029,3828000,3720,Sale
+EP-10099,2024-03-07,Khobar,Al Rakah,Commercial Land,Commercial,1323,7292000,5512,Resale
+EP-10100,2024-03-18,Khobar,Corniche,Villa,Residential,518,2418000,4667,Sale
+EP-10101,2024-03-07,Khobar,Al Khuzama,Villa,Residential,335,1731000,5168,Sale
+EP-10102,2024-03-27,Khobar,Corniche,Apartment,Residential,88,574000,6520,Sale
+EP-10103,2024-03-01,Khobar,Corniche,Apartment,Residential,180,1085000,6027,Sale
+EP-10104,2024-03-26,Khobar,Corniche,Apartment,Residential,189,1296000,6855,Sale
+EP-10105,2024-03-15,Khobar,Al Rakah,Apartment,Residential,146,965000,6612,Sale
+EP-10106,2024-03-15,Khobar,Corniche,Residential Land,Residential,666,2050000,3078,Resale
+EP-10107,2024-03-25,Khobar,Al Khuzama,Villa,Residential,591,2832000,4792,Sale
+EP-10108,2024-03-14,Khobar,Al Rakah,Apartment,Residential,206,1387000,6735,Sale
+EP-10109,2024-03-21,Khobar,Al Aqrabiyah,Commercial Unit,Commercial,241,1869000,7754,Resale
+EP-10110,2024-03-12,Khobar,Al Khuzama,Apartment,Residential,165,998000,6050,Sale
+EP-10111,2024-03-11,Khobar,Al Rakah,Villa,Residential,561,2569000,4579,Sale
+EP-10112,2024-03-18,Dammam,Al Shati,Apartment,Residential,166,733000,4417,Sale
+EP-10113,2024-03-20,Dammam,Al Shati,Residential Land,Residential,416,1099000,2643,Sale
+EP-10114,2024-03-10,Dammam,Al Manar,Villa,Residential,282,1053000,3733,Resale
+EP-10115,2024-03-26,Dammam,Al Shati,Residential Land,Residential,610,1315000,2155,Sale
+EP-10116,2024-03-19,Dammam,Al Shati,Villa,Residential,280,1031000,3681,Sale
+EP-10117,2024-03-11,Dammam,Al Manar,Commercial Land,Commercial,1383,4973000,3596,Sale
+EP-10118,2024-03-05,Dammam,Al Badiyah,Villa,Residential,401,1821000,4542,Sale
+EP-10119,2024-03-26,Dammam,Al Shati,Apartment,Residential,126,663000,5262,Sale
+EP-10120,2024-03-24,Dammam,Al Faisaliyah,Apartment,Residential,170,857000,5042,Sale
+EP-10121,2024-03-23,Dammam,Al Adamah,Villa,Residential,285,1404000,4926,Sale
+EP-10122,2024-03-11,Dammam,Al Adamah,Apartment,Residential,177,830000,4688,Sale
+EP-10123,2024-03-27,Dammam,Al Shati,Villa,Residential,361,1428000,3957,Sale
+EP-10124,2024-03-08,Dammam,Al Manar,Apartment,Residential,176,825000,4686,Sale
+EP-10125,2024-03-09,Dammam,Al Manar,Commercial Land,Commercial,1545,5628000,3643,Sale
+EP-10126,2024-03-11,Dammam,Al Faisaliyah,Apartment,Residential,109,518000,4755,Resale
+EP-10127,2024-03-08,Dhahran,Doha,Residential Land,Residential,338,1110000,3283,Sale
+EP-10128,2024-03-13,Dhahran,Doha,Apartment,Residential,191,1159000,6070,Sale
+EP-10129,2024-03-21,Dhahran,University Area,Apartment,Residential,89,644000,7231,Sale
+EP-10130,2024-03-23,Dhahran,Al Qusur,Apartment,Residential,136,965000,7093,Sale
+EP-10131,2024-03-19,Dhahran,University Area,Commercial Unit,Commercial,262,2594000,9900,Resale
+EP-10132,2024-03-26,Dhahran,Doha,Apartment,Residential,87,549000,6308,Sale
+EP-10133,2024-03-03,Dhahran,Doha,Commercial Unit,Commercial,110,910000,8274,Sale
+EP-10134,2024-03-13,Dhahran,Al Qusur,Commercial Unit,Commercial,143,1218000,8515,Sale
+EP-10135,2024-03-01,Dhahran,Al Qusur,Apartment,Residential,111,630000,5678,Sale
+EP-10136,2024-03-04,Jubail,Jubail Downtown,Apartment,Residential,178,795000,4465,Sale
+EP-10137,2024-03-04,Jubail,Jalmudah,Apartment,Residential,111,511000,4601,Sale
+EP-10138,2024-03-07,Jubail,Jalmudah,Apartment,Residential,164,756000,4612,Resale
+EP-10139,2024-03-03,Jubail,Al Huwaylat,Apartment,Residential,102,500000,4902,Sale
+EP-10140,2024-03-04,Jubail,Fanateer,Apartment,Residential,151,684000,4530,Sale
+EP-10141,2024-03-26,Jubail,Jalmudah,Residential Land,Residential,743,1585000,2133,Resale
+EP-10142,2024-03-20,Jubail,Fanateer,Villa,Residential,435,1413000,3248,Sale
+EP-10143,2024-03-11,Jubail,Fanateer,Apartment,Residential,108,459000,4249,Sale
+EP-10144,2024-03-20,Jubail,Fanateer,Residential Land,Residential,623,1406000,2257,Sale
+EP-10145,2024-03-11,Jubail,Fanateer,Apartment,Residential,147,713000,4850,Sale
+EP-10146,2024-04-21,Khobar,Al Olaya,Residential Land,Residential,722,2006000,2779,Sale
+EP-10147,2024-04-09,Khobar,Al Rakah,Commercial Land,Commercial,1474,7734000,5247,Resale
+EP-10148,2024-04-16,Khobar,Al Aqrabiyah,Apartment,Residential,85,581000,6837,Sale
+EP-10149,2024-04-23,Khobar,Al Olaya,Residential Land,Residential,716,2270000,3170,Sale
+EP-10150,2024-04-23,Khobar,Corniche,Commercial Unit,Commercial,337,2968000,8808,Sale
+EP-10151,2024-04-09,Khobar,Al Olaya,Apartment,Residential,122,710000,5817,Sale
+EP-10152,2024-04-04,Khobar,Al Rakah,Villa,Residential,583,3641000,6245,Resale
+EP-10153,2024-04-18,Khobar,Al Khuzama,Residential Land,Residential,496,1766000,3561,Sale
+EP-10154,2024-04-02,Khobar,Al Aqrabiyah,Commercial Unit,Commercial,323,2601000,8054,Sale
+EP-10155,2024-04-21,Khobar,Al Olaya,Commercial Unit,Commercial,287,2887000,10058,Sale
+EP-10156,2024-04-17,Khobar,Al Olaya,Apartment,Residential,146,1008000,6903,Resale
+EP-10157,2024-04-13,Khobar,Al Khuzama,Commercial Unit,Commercial,334,3329000,9967,Sale
+EP-10158,2024-04-06,Khobar,Al Khuzama,Commercial Unit,Commercial,152,1311000,8628,Sale
+EP-10159,2024-04-21,Khobar,Al Khuzama,Apartment,Residential,132,770000,5835,Resale
+EP-10160,2024-04-02,Dammam,Al Adamah,Residential Land,Residential,577,1754000,3039,Sale
+EP-10161,2024-04-12,Dammam,Al Shati,Residential Land,Residential,325,928000,2854,Sale
+EP-10162,2024-04-06,Dammam,Al Faisaliyah,Apartment,Residential,114,616000,5404,Sale
+EP-10163,2024-04-17,Dammam,Al Shati,Villa,Residential,355,1651000,4650,Sale
+EP-10164,2024-04-27,Dammam,Al Badiyah,Residential Land,Residential,770,2198000,2855,Resale
+EP-10165,2024-04-20,Dammam,Al Badiyah,Commercial Land,Commercial,956,4026000,4211,Sale
+EP-10166,2024-04-17,Dammam,Al Manar,Villa,Residential,249,1219000,4897,Resale
+EP-10167,2024-04-10,Dammam,Al Faisaliyah,Residential Land,Residential,355,805000,2269,Sale
+EP-10168,2024-04-09,Dammam,Al Adamah,Apartment,Residential,152,873000,5745,Sale
+EP-10169,2024-04-21,Dammam,Al Shati,Villa,Residential,365,1480000,4054,Resale
+EP-10170,2024-04-25,Dammam,Al Shati,Apartment,Residential,123,606000,4927,Sale
+EP-10171,2024-04-02,Dammam,Al Shati,Apartment,Residential,130,707000,5437,Resale
+EP-10172,2024-04-24,Dammam,Al Manar,Residential Land,Residential,889,2487000,2797,Sale
+EP-10173,2024-04-19,Dammam,Al Adamah,Residential Land,Residential,388,1105000,2849,Sale
+EP-10174,2024-04-25,Dammam,Al Faisaliyah,Residential Land,Residential,884,1998000,2260,Sale
+EP-10175,2024-04-19,Dammam,Al Manar,Apartment,Residential,115,639000,5556,Resale
+EP-10176,2024-04-10,Dhahran,University Area,Apartment,Residential,125,796000,6370,Resale
+EP-10177,2024-04-04,Dhahran,Al Qusur,Commercial Unit,Commercial,171,1839000,10754,Resale
+EP-10178,2024-04-12,Dhahran,University Area,Villa,Residential,251,1411000,5623,Sale
+EP-10179,2024-04-08,Dhahran,Al Qusur,Apartment,Residential,120,901000,7505,Sale
+EP-10180,2024-04-25,Dhahran,Doha,Residential Land,Residential,792,2503000,3160,Sale
+EP-10181,2024-04-09,Dhahran,Al Qusur,Commercial Unit,Commercial,116,1017000,8763,Resale
+EP-10182,2024-04-11,Dhahran,Dana,Apartment,Residential,177,1138000,6432,Sale
+EP-10183,2024-04-04,Dhahran,Doha,Villa,Residential,238,1191000,5003,Resale
+EP-10184,2024-04-24,Dhahran,Dana,Residential Land,Residential,482,1439000,2985,Resale
+EP-10185,2024-04-16,Jubail,Jalmudah,Residential Land,Residential,848,2079000,2452,Sale
+EP-10186,2024-04-22,Jubail,Fanateer,Apartment,Residential,159,721000,4533,Sale
+EP-10187,2024-04-21,Jubail,Jalmudah,Commercial Land,Commercial,520,2012000,3869,Sale
+EP-10188,2024-04-04,Jubail,Al Huwaylat,Residential Land,Residential,338,744000,2202,Sale
+EP-10189,2024-04-08,Jubail,Al Huwaylat,Residential Land,Residential,810,2025000,2500,Sale
+EP-10190,2024-04-06,Jubail,Fanateer,Apartment,Residential,152,790000,5200,Resale
+EP-10191,2024-04-16,Jubail,Jalmudah,Apartment,Residential,196,992000,5060,Resale
+EP-10192,2024-04-09,Jubail,Fanateer,Apartment,Residential,124,544000,4389,Sale
+EP-10193,2024-04-17,Jubail,Fanateer,Commercial Unit,Commercial,335,2281000,6809,Resale
+EP-10194,2024-04-13,Jubail,Jalmudah,Apartment,Residential,187,1000000,5350,Sale
+EP-10195,2024-05-19,Khobar,Al Aqrabiyah,Villa,Residential,436,2452000,5623,Sale
+EP-10196,2024-05-03,Khobar,Al Khuzama,Residential Land,Residential,320,983000,3073,Resale
+EP-10197,2024-05-11,Khobar,Al Aqrabiyah,Apartment,Residential,112,644000,5754,Resale
+EP-10198,2024-05-02,Khobar,Corniche,Apartment,Residential,156,948000,6079,Sale
+EP-10199,2024-05-04,Khobar,Al Khuzama,Villa,Residential,458,2579000,5632,Sale
+EP-10200,2024-05-24,Khobar,Al Aqrabiyah,Commercial Unit,Commercial,131,1280000,9773,Resale
+EP-10201,2024-05-11,Khobar,Al Aqrabiyah,Apartment,Residential,101,700000,6933,Resale
+EP-10202,2024-05-12,Khobar,Al Khuzama,Apartment,Residential,160,968000,6052,Sale
+EP-10203,2024-05-06,Khobar,Al Khuzama,Commercial Unit,Commercial,343,3356000,9783,Sale
+EP-10204,2024-05-11,Khobar,Al Aqrabiyah,Apartment,Residential,94,536000,5698,Sale
+EP-10205,2024-05-03,Khobar,Al Aqrabiyah,Apartment,Residential,95,656000,6901,Sale
+EP-10206,2024-05-25,Khobar,Al Aqrabiyah,Apartment,Residential,160,916000,5727,Sale
+EP-10207,2024-05-03,Khobar,Al Khuzama,Apartment,Residential,95,652000,6862,Sale
+EP-10208,2024-05-12,Khobar,Corniche,Villa,Residential,577,3048000,5283,Resale
+EP-10209,2024-05-03,Khobar,Al Rakah,Residential Land,Residential,389,1196000,3075,Sale
+EP-10210,2024-05-21,Dammam,Al Shati,Commercial Land,Commercial,752,3040000,4043,Sale
+EP-10211,2024-05-15,Dammam,Al Manar,Residential Land,Residential,443,1147000,2589,Sale
+EP-10212,2024-05-01,Dammam,Al Manar,Villa,Residential,284,1275000,4490,Resale
+EP-10213,2024-05-22,Dammam,Al Manar,Apartment,Residential,167,971000,5815,Sale
+EP-10214,2024-05-07,Dammam,Al Manar,Apartment,Residential,185,915000,4945,Resale
+EP-10215,2024-05-03,Dammam,Al Adamah,Villa,Residential,403,2132000,5290,Sale
+EP-10216,2024-05-24,Dammam,Al Manar,Villa,Residential,648,3314000,5114,Resale
+EP-10217,2024-05-25,Dammam,Al Faisaliyah,Villa,Residential,231,957000,4145,Sale
+EP-10218,2024-05-27,Dammam,Al Faisaliyah,Villa,Residential,605,2497000,4128,Sale
+EP-10219,2024-05-01,Dammam,Al Shati,Villa,Residential,378,1617000,4277,Resale
+EP-10220,2024-05-05,Dammam,Al Manar,Villa,Residential,310,1592000,5134,Sale
+EP-10221,2024-05-10,Dammam,Al Badiyah,Apartment,Residential,154,1007000,6540,Resale
+EP-10222,2024-05-09,Dammam,Al Shati,Commercial Unit,Commercial,216,1589000,7356,Sale
+EP-10223,2024-05-02,Dammam,Al Manar,Residential Land,Residential,763,2111000,2767,Sale
+EP-10224,2024-05-19,Dammam,Al Manar,Apartment,Residential,189,973000,5148,Resale
+EP-10225,2024-05-12,Dammam,Al Badiyah,Commercial Unit,Commercial,333,2624000,7880,Sale
+EP-10226,2024-05-18,Dammam,Al Badiyah,Commercial Land,Commercial,845,4170000,4935,Resale
+EP-10227,2024-05-10,Dhahran,Al Qusur,Residential Land,Residential,523,1622000,3101,Sale
+EP-10228,2024-05-25,Dhahran,University Area,Commercial Land,Commercial,639,3603000,5638,Sale
+EP-10229,2024-05-12,Dhahran,Dana,Villa,Residential,327,2044000,6251,Sale
+EP-10230,2024-05-08,Dhahran,Al Qusur,Villa,Residential,368,2335000,6345,Sale
+EP-10231,2024-05-19,Dhahran,Al Qusur,Residential Land,Residential,841,3353000,3987,Resale
+EP-10232,2024-05-10,Dhahran,Al Qusur,Residential Land,Residential,483,1677000,3472,Sale
+EP-10233,2024-05-13,Dhahran,Doha,Residential Land,Residential,779,2827000,3629,Sale
+EP-10234,2024-05-16,Dhahran,Dana,Commercial Unit,Commercial,212,2014000,9502,Resale
+EP-10235,2024-05-07,Dhahran,University Area,Residential Land,Residential,581,1993000,3431,Resale
+EP-10236,2024-05-16,Dhahran,Dana,Apartment,Residential,117,716000,6121,Sale
+EP-10237,2024-05-13,Jubail,Jubail Downtown,Commercial Land,Commercial,1320,5665000,4292,Resale
+EP-10238,2024-05-20,Jubail,Al Huwaylat,Residential Land,Residential,663,1770000,2669,Sale
+EP-10239,2024-05-17,Jubail,Jalmudah,Apartment,Residential,143,775000,5422,Sale
+EP-10240,2024-05-16,Jubail,Jubail Downtown,Residential Land,Residential,318,868000,2729,Sale
+EP-10241,2024-05-06,Jubail,Al Huwaylat,Villa,Residential,512,2311000,4514,Sale
+EP-10242,2024-05-03,Jubail,Jubail Downtown,Apartment,Residential,195,1023000,5247,Resale
+EP-10243,2024-05-13,Jubail,Jubail Downtown,Villa,Residential,333,1482000,4449,Sale
+EP-10244,2024-05-13,Jubail,Al Huwaylat,Apartment,Residential,155,834000,5381,Sale
+EP-10245,2024-05-16,Jubail,Al Huwaylat,Villa,Residential,445,1916000,4306,Sale
+EP-10246,2024-05-10,Jubail,Jubail Downtown,Villa,Residential,547,2711000,4957,Sale
+EP-10247,2024-05-17,Jubail,Jubail Downtown,Commercial Unit,Commercial,305,2333000,7650,Sale
+EP-10248,2024-06-07,Khobar,Corniche,Residential Land,Residential,484,1384000,2859,Sale
+EP-10249,2024-06-02,Khobar,Corniche,Villa,Residential,505,2814000,5572,Sale
+EP-10250,2024-06-11,Khobar,Al Rakah,Residential Land,Residential,603,1804000,2991,Sale
+EP-10251,2024-06-01,Khobar,Corniche,Residential Land,Residential,395,1243000,3146,Sale
+EP-10252,2024-06-15,Khobar,Al Olaya,Apartment,Residential,109,747000,6855,Resale
+EP-10253,2024-06-21,Khobar,Al Khuzama,Apartment,Residential,121,805000,6656,Resale
+EP-10254,2024-06-24,Khobar,Al Aqrabiyah,Residential Land,Residential,398,1245000,3127,Sale
+EP-10255,2024-06-15,Khobar,Al Aqrabiyah,Residential Land,Residential,611,1862000,3047,Sale
+EP-10256,2024-06-25,Khobar,Al Rakah,Villa,Residential,378,2142000,5667,Sale
+EP-10257,2024-06-21,Khobar,Al Aqrabiyah,Apartment,Residential,171,1023000,5980,Sale
+EP-10258,2024-06-06,Khobar,Al Khuzama,Commercial Land,Commercial,1227,6777000,5523,Sale
+EP-10259,2024-06-15,Khobar,Corniche,Apartment,Residential,199,1299000,6526,Resale
+EP-10260,2024-06-07,Khobar,Al Olaya,Apartment,Residential,171,1141000,6670,Sale
+EP-10261,2024-06-16,Khobar,Al Khuzama,Commercial Land,Commercial,597,3371000,5646,Resale
+EP-10262,2024-06-14,Dammam,Al Shati,Apartment,Residential,147,723000,4917,Sale
+EP-10263,2024-06-18,Dammam,Al Shati,Villa,Residential,505,2265000,4486,Sale
+EP-10264,2024-06-15,Dammam,Al Badiyah,Apartment,Residential,198,1009000,5098,Sale
+EP-10265,2024-06-18,Dammam,Al Manar,Villa,Residential,478,2292000,4796,Sale
+EP-10266,2024-06-25,Dammam,Al Faisaliyah,Apartment,Residential,100,516000,5161,Resale
+EP-10267,2024-06-20,Dammam,Al Adamah,Commercial Land,Commercial,807,3780000,4684,Sale
+EP-10268,2024-06-05,Dammam,Al Shati,Villa,Residential,594,2294000,3862,Resale
+EP-10269,2024-06-06,Dammam,Al Shati,Villa,Residential,301,1353000,4495,Sale
+EP-10270,2024-06-18,Dammam,Al Badiyah,Apartment,Residential,203,1233000,6075,Sale
+EP-10271,2024-06-27,Dammam,Al Manar,Villa,Residential,271,1276000,4710,Sale
+EP-10272,2024-06-19,Dammam,Al Faisaliyah,Commercial Land,Commercial,839,3699000,4409,Sale
+EP-10273,2024-06-17,Dammam,Al Faisaliyah,Commercial Unit,Commercial,187,1520000,8126,Sale
+EP-10274,2024-06-20,Dammam,Al Badiyah,Residential Land,Residential,842,2265000,2690,Sale
+EP-10275,2024-06-04,Dammam,Al Manar,Apartment,Residential,122,726000,5951,Sale
+EP-10276,2024-06-02,Dammam,Al Faisaliyah,Apartment,Residential,183,954000,5213,Sale
+EP-10277,2024-06-18,Dammam,Al Manar,Commercial Land,Commercial,1310,5161000,3940,Sale
+EP-10278,2024-06-21,Dhahran,University Area,Apartment,Residential,135,926000,6860,Sale
+EP-10279,2024-06-27,Dhahran,Al Qusur,Apartment,Residential,136,804000,5912,Sale
+EP-10280,2024-06-21,Dhahran,University Area,Apartment,Residential,98,605000,6177,Sale
+EP-10281,2024-06-24,Dhahran,University Area,Apartment,Residential,112,843000,7528,Sale
+EP-10282,2024-06-01,Dhahran,Doha,Apartment,Residential,100,577000,5770,Sale
+EP-10283,2024-06-24,Dhahran,Dana,Villa,Residential,441,2676000,6069,Resale
+EP-10284,2024-06-10,Dhahran,Al Qusur,Apartment,Residential,205,1487000,7256,Sale
+EP-10285,2024-06-13,Dhahran,Doha,Villa,Residential,646,3152000,4880,Sale
+EP-10286,2024-06-07,Dhahran,University Area,Apartment,Residential,136,936000,6883,Sale
+EP-10287,2024-06-12,Jubail,Jalmudah,Apartment,Residential,162,715000,4414,Sale
+EP-10288,2024-06-13,Jubail,Jalmudah,Apartment,Residential,124,607000,4899,Resale
+EP-10289,2024-06-27,Jubail,Jubail Downtown,Residential Land,Residential,820,2056000,2507,Sale
+EP-10290,2024-06-20,Jubail,Al Huwaylat,Apartment,Residential,197,839000,4257,Sale
+EP-10291,2024-06-17,Jubail,Al Huwaylat,Commercial Land,Commercial,1578,5682000,3601,Sale
+EP-10292,2024-06-22,Jubail,Jubail Downtown,Apartment,Residential,94,486000,5166,Sale
+EP-10293,2024-06-10,Jubail,Jalmudah,Villa,Residential,603,2227000,3694,Resale
+EP-10294,2024-06-02,Jubail,Jubail Downtown,Commercial Unit,Commercial,266,1896000,7128,Resale
+EP-10295,2024-06-09,Jubail,Al Huwaylat,Commercial Land,Commercial,846,2953000,3491,Sale
+EP-10296,2024-06-26,Jubail,Jalmudah,Commercial Unit,Commercial,269,2178000,8096,Sale
+EP-10297,2024-07-22,Khobar,Al Rakah,Residential Land,Residential,802,2362000,2945,Resale
+EP-10298,2024-07-11,Khobar,Al Rakah,Commercial Unit,Commercial,95,924000,9726,Sale
+EP-10299,2024-07-16,Khobar,Al Olaya,Apartment,Residential,121,717000,5929,Sale
+EP-10300,2024-07-01,Khobar,Al Aqrabiyah,Commercial Land,Commercial,1110,5184000,4670,Sale
+EP-10301,2024-07-25,Khobar,Al Aqrabiyah,Commercial Unit,Commercial,231,1795000,7772,Sale
+EP-10302,2024-07-26,Khobar,Al Rakah,Residential Land,Residential,335,990000,2956,Resale
+EP-10303,2024-07-06,Khobar,Al Khuzama,Residential Land,Residential,698,1862000,2667,Sale
+EP-10304,2024-07-15,Khobar,Corniche,Residential Land,Residential,443,1291000,2914,Resale
+EP-10305,2024-07-25,Khobar,Al Aqrabiyah,Apartment,Residential,117,618000,5283,Sale
+EP-10306,2024-07-19,Khobar,Corniche,Residential Land,Residential,510,1610000,3157,Sale
+EP-10307,2024-07-25,Khobar,Al Khuzama,Apartment,Residential,126,785000,6233,Resale
+EP-10308,2024-07-11,Khobar,Corniche,Residential Land,Residential,543,1460000,2689,Sale
+EP-10309,2024-07-04,Khobar,Al Khuzama,Apartment,Residential,86,484000,5632,Sale
+EP-10310,2024-07-25,Dammam,Al Badiyah,Villa,Residential,518,2270000,4383,Sale
+EP-10311,2024-07-23,Dammam,Al Badiyah,Commercial Land,Commercial,569,2270000,3989,Resale
+EP-10312,2024-07-13,Dammam,Al Adamah,Apartment,Residential,120,630000,5247,Sale
+EP-10313,2024-07-26,Dammam,Al Manar,Villa,Residential,612,2621000,4283,Sale
+EP-10314,2024-07-23,Dammam,Al Badiyah,Residential Land,Residential,784,2050000,2615,Sale
+EP-10315,2024-07-25,Dammam,Al Manar,Residential Land,Residential,870,2040000,2345,Sale
+EP-10316,2024-07-25,Dammam,Al Manar,Apartment,Residential,159,856000,5381,Sale
+EP-10317,2024-07-07,Dammam,Al Faisaliyah,Commercial Unit,Commercial,97,654000,6739,Sale
+EP-10318,2024-07-11,Dammam,Al Adamah,Residential Land,Residential,738,1759000,2383,Sale
+EP-10319,2024-07-14,Dammam,Al Shati,Residential Land,Residential,365,874000,2394,Resale
+EP-10320,2024-07-02,Dammam,Al Badiyah,Villa,Residential,558,2114000,3789,Sale
+EP-10321,2024-07-26,Dammam,Al Manar,Villa,Residential,354,1596000,4509,Sale
+EP-10322,2024-07-05,Dammam,Al Badiyah,Commercial Land,Commercial,1449,5589000,3857,Sale
+EP-10323,2024-07-11,Dammam,Al Badiyah,Villa,Residential,276,1030000,3731,Resale
+EP-10324,2024-07-14,Dammam,Al Faisaliyah,Apartment,Residential,164,801000,4884,Sale
+EP-10325,2024-07-15,Dhahran,Doha,Residential Land,Residential,420,1381000,3288,Sale
+EP-10326,2024-07-07,Dhahran,University Area,Commercial Unit,Commercial,169,1381000,8169,Sale
+EP-10327,2024-07-16,Dhahran,Dana,Commercial Land,Commercial,1593,8669000,5442,Sale
+EP-10328,2024-07-14,Dhahran,Doha,Commercial Unit,Commercial,187,1434000,7669,Sale
+EP-10329,2024-07-09,Dhahran,Dana,Apartment,Residential,191,1073000,5616,Sale
+EP-10330,2024-07-20,Dhahran,Doha,Commercial Unit,Commercial,267,2143000,8027,Resale
+EP-10331,2024-07-12,Dhahran,Al Qusur,Apartment,Residential,111,667000,6005,Sale
+EP-10332,2024-07-04,Dhahran,Doha,Residential Land,Residential,508,1669000,3286,Sale
+EP-10333,2024-07-03,Jubail,Al Huwaylat,Villa,Residential,434,1734000,3995,Sale
+EP-10334,2024-07-21,Jubail,Al Huwaylat,Apartment,Residential,106,480000,4532,Sale
+EP-10335,2024-07-09,Jubail,Jubail Downtown,Apartment,Residential,137,633000,4624,Resale
+EP-10336,2024-07-26,Jubail,Fanateer,Commercial Land,Commercial,777,2956000,3805,Sale
+EP-10337,2024-07-08,Jubail,Fanateer,Apartment,Residential,187,750000,4011,Sale
+EP-10338,2024-07-24,Jubail,Fanateer,Villa,Residential,313,1211000,3869,Sale
+EP-10339,2024-07-22,Jubail,Jubail Downtown,Apartment,Residential,138,640000,4639,Sale
+EP-10340,2024-07-26,Jubail,Al Huwaylat,Commercial Land,Commercial,726,2428000,3344,Sale
+EP-10341,2024-07-01,Jubail,Jalmudah,Commercial Unit,Commercial,338,2023000,5984,Resale
+EP-10342,2024-08-02,Khobar,Al Aqrabiyah,Apartment,Residential,184,1149000,6243,Sale
+EP-10343,2024-08-04,Khobar,Corniche,Residential Land,Residential,419,1276000,3045,Sale
+EP-10344,2024-08-16,Khobar,Al Olaya,Villa,Residential,544,2343000,4307,Sale
+EP-10345,2024-08-26,Khobar,Al Aqrabiyah,Apartment,Residential,95,536000,5637,Sale
+EP-10346,2024-08-25,Khobar,Al Olaya,Villa,Residential,283,1342000,4743,Sale
+EP-10347,2024-08-10,Khobar,Al Aqrabiyah,Apartment,Residential,99,604000,6100,Sale
+EP-10348,2024-08-20,Khobar,Al Khuzama,Commercial Land,Commercial,1350,5814000,4307,Sale
+EP-10349,2024-08-20,Khobar,Al Aqrabiyah,Villa,Residential,543,2442000,4497,Sale
+EP-10350,2024-08-10,Khobar,Al Olaya,Apartment,Residential,127,784000,6173,Sale
+EP-10351,2024-08-22,Khobar,Al Aqrabiyah,Residential Land,Residential,333,814000,2444,Resale
+EP-10352,2024-08-09,Khobar,Al Khuzama,Commercial Land,Commercial,999,5039000,5044,Sale
+EP-10353,2024-08-06,Khobar,Al Rakah,Commercial Land,Commercial,521,2503000,4804,Sale
+EP-10354,2024-08-12,Khobar,Corniche,Commercial Land,Commercial,1562,7971000,5103,Sale
+EP-10355,2024-08-12,Dammam,Al Adamah,Apartment,Residential,156,862000,5526,Sale
+EP-10356,2024-08-23,Dammam,Al Manar,Commercial Unit,Commercial,260,2107000,8103,Sale
+EP-10357,2024-08-03,Dammam,Al Badiyah,Apartment,Residential,197,943000,4787,Sale
+EP-10358,2024-08-23,Dammam,Al Adamah,Apartment,Residential,111,560000,5041,Sale
+EP-10359,2024-08-18,Dammam,Al Adamah,Residential Land,Residential,618,1615000,2614,Sale
+EP-10360,2024-08-22,Dammam,Al Manar,Apartment,Residential,144,668000,4641,Sale
+EP-10361,2024-08-13,Dammam,Al Badiyah,Apartment,Residential,183,965000,5272,Sale
+EP-10362,2024-08-25,Dammam,Al Manar,Apartment,Residential,162,832000,5134,Sale
+EP-10363,2024-08-08,Dammam,Al Shati,Commercial Land,Commercial,1509,6305000,4178,Resale
+EP-10364,2024-08-06,Dammam,Al Adamah,Apartment,Residential,96,503000,5235,Sale
+EP-10365,2024-08-07,Dammam,Al Badiyah,Residential Land,Residential,871,2171000,2493,Sale
+EP-10366,2024-08-05,Dammam,Al Adamah,Commercial Unit,Commercial,138,1192000,8641,Sale
+EP-10367,2024-08-19,Dammam,Al Adamah,Commercial Unit,Commercial,349,2974000,8521,Sale
+EP-10368,2024-08-17,Dammam,Al Faisaliyah,Villa,Residential,421,1484000,3526,Sale
+EP-10369,2024-08-07,Dammam,Al Shati,Residential Land,Residential,326,738000,2264,Sale
+EP-10370,2024-08-18,Dhahran,Dana,Apartment,Residential,171,1102000,6445,Resale
+EP-10371,2024-08-16,Dhahran,Al Qusur,Apartment,Residential,126,770000,6110,Sale
+EP-10372,2024-08-26,Dhahran,University Area,Villa,Residential,442,2530000,5723,Sale
+EP-10373,2024-08-07,Dhahran,University Area,Commercial Land,Commercial,1048,5974000,5700,Resale
+EP-10374,2024-08-06,Dhahran,Doha,Apartment,Residential,192,1074000,5596,Sale
+EP-10375,2024-08-04,Dhahran,Doha,Commercial Unit,Commercial,158,1387000,8776,Sale
+EP-10376,2024-08-04,Dhahran,Al Qusur,Apartment,Residential,172,1097000,6379,Sale
+EP-10377,2024-08-04,Dhahran,University Area,Residential Land,Residential,673,1948000,2894,Resale
+EP-10378,2024-08-16,Dhahran,University Area,Apartment,Residential,135,835000,6185,Sale
+EP-10379,2024-08-26,Jubail,Jubail Downtown,Villa,Residential,433,1827000,4219,Resale
+EP-10380,2024-08-15,Jubail,Jubail Downtown,Commercial Unit,Commercial,324,2390000,7378,Sale
+EP-10381,2024-08-23,Jubail,Jalmudah,Apartment,Residential,208,1037000,4987,Sale
+EP-10382,2024-08-13,Jubail,Jubail Downtown,Residential Land,Residential,710,1877000,2643,Resale
+EP-10383,2024-08-27,Jubail,Jubail Downtown,Residential Land,Residential,348,753000,2163,Resale
+EP-10384,2024-08-25,Jubail,Fanateer,Commercial Unit,Commercial,167,969000,5800,Sale
+EP-10385,2024-08-22,Jubail,Fanateer,Villa,Residential,294,1175000,3998,Sale
+EP-10386,2024-08-21,Jubail,Jalmudah,Commercial Unit,Commercial,245,1447000,5908,Sale
+EP-10387,2024-08-27,Jubail,Al Huwaylat,Apartment,Residential,152,703000,4626,Sale
+EP-10388,2024-08-22,Jubail,Fanateer,Apartment,Residential,87,342000,3936,Sale
+EP-10389,2024-09-24,Khobar,Corniche,Villa,Residential,527,2846000,5400,Sale
+EP-10390,2024-09-27,Khobar,Al Rakah,Apartment,Residential,175,1167000,6666,Resale
+EP-10391,2024-09-11,Khobar,Al Rakah,Residential Land,Residential,893,2888000,3234,Sale
+EP-10392,2024-09-11,Khobar,Al Rakah,Apartment,Residential,192,1161000,6047,Sale
+EP-10393,2024-09-09,Khobar,Al Aqrabiyah,Villa,Residential,350,1854000,5297,Resale
+EP-10394,2024-09-11,Khobar,Al Rakah,Commercial Unit,Commercial,113,1067000,9446,Sale
+EP-10395,2024-09-19,Khobar,Corniche,Apartment,Residential,193,1086000,5626,Sale
+EP-10396,2024-09-06,Khobar,Al Khuzama,Apartment,Residential,180,1121000,6228,Sale
+EP-10397,2024-09-23,Khobar,Al Rakah,Apartment,Residential,160,919000,5743,Resale
+EP-10398,2024-09-12,Khobar,Al Rakah,Villa,Residential,594,3283000,5527,Sale
+EP-10399,2024-09-09,Khobar,Al Aqrabiyah,Villa,Residential,272,1500000,5515,Sale
+EP-10400,2024-09-06,Khobar,Al Aqrabiyah,Commercial Land,Commercial,615,3153000,5127,Resale
+EP-10401,2024-09-03,Khobar,Al Olaya,Commercial Unit,Commercial,291,2293000,7880,Sale
+EP-10402,2024-09-16,Khobar,Corniche,Apartment,Residential,170,1110000,6528,Sale
+EP-10403,2024-09-04,Dammam,Al Manar,Residential Land,Residential,900,2680000,2978,Sale
+EP-10404,2024-09-01,Dammam,Al Manar,Residential Land,Residential,611,1670000,2734,Resale
+EP-10405,2024-09-05,Dammam,Al Adamah,Villa,Residential,244,1229000,5037,Sale
+EP-10406,2024-09-08,Dammam,Al Badiyah,Commercial Unit,Commercial,274,2384000,8700,Sale
+EP-10407,2024-09-22,Dammam,Al Faisaliyah,Apartment,Residential,153,754000,4926,Resale
+EP-10408,2024-09-25,Dammam,Al Badiyah,Villa,Residential,347,1362000,3925,Sale
+EP-10409,2024-09-22,Dammam,Al Badiyah,Villa,Residential,535,2334000,4363,Sale
+EP-10410,2024-09-08,Dammam,Al Shati,Apartment,Residential,209,1184000,5667,Sale
+EP-10411,2024-09-24,Dammam,Al Manar,Apartment,Residential,139,832000,5983,Sale
+EP-10412,2024-09-21,Dammam,Al Manar,Villa,Residential,615,2541000,4132,Sale
+EP-10413,2024-09-19,Dammam,Al Adamah,Apartment,Residential,146,862000,5903,Sale
+EP-10414,2024-09-19,Dammam,Al Manar,Residential Land,Residential,890,2638000,2964,Sale
+EP-10415,2024-09-15,Dammam,Al Adamah,Villa,Residential,473,2269000,4796,Sale
+EP-10416,2024-09-25,Dammam,Al Manar,Commercial Unit,Commercial,222,1683000,7579,Sale
+EP-10417,2024-09-20,Dammam,Al Badiyah,Apartment,Residential,103,508000,4930,Resale
+EP-10418,2024-09-17,Dammam,Al Shati,Commercial Unit,Commercial,126,991000,7866,Sale
+EP-10419,2024-09-17,Dhahran,Dana,Commercial Unit,Commercial,316,2770000,8767,Sale
+EP-10420,2024-09-13,Dhahran,Al Qusur,Villa,Residential,408,2248000,5511,Sale
+EP-10421,2024-09-17,Dhahran,University Area,Villa,Residential,627,3148000,5020,Sale
+EP-10422,2024-09-10,Dhahran,Dana,Apartment,Residential,101,662000,6558,Resale
+EP-10423,2024-09-26,Dhahran,Doha,Commercial Land,Commercial,1150,6118000,5320,Sale
+EP-10424,2024-09-13,Dhahran,Al Qusur,Residential Land,Residential,821,2882000,3510,Sale
+EP-10425,2024-09-19,Dhahran,Doha,Commercial Unit,Commercial,142,1329000,9361,Resale
+EP-10426,2024-09-09,Dhahran,University Area,Commercial Land,Commercial,1431,8157000,5700,Resale
+EP-10427,2024-09-11,Dhahran,Al Qusur,Residential Land,Residential,541,1903000,3518,Resale
+EP-10428,2024-09-02,Jubail,Jubail Downtown,Residential Land,Residential,792,1728000,2182,Resale
+EP-10429,2024-09-20,Jubail,Fanateer,Villa,Residential,233,903000,3875,Sale
+EP-10430,2024-09-10,Jubail,Al Huwaylat,Apartment,Residential,170,903000,5313,Resale
+EP-10431,2024-09-06,Jubail,Al Huwaylat,Commercial Unit,Commercial,273,2114000,7743,Sale
+EP-10432,2024-09-27,Jubail,Fanateer,Villa,Residential,572,2251000,3936,Sale
+EP-10433,2024-09-27,Jubail,Al Huwaylat,Residential Land,Residential,854,2284000,2674,Sale
+EP-10434,2024-09-27,Jubail,Fanateer,Residential Land,Residential,476,969000,2035,Sale
+EP-10435,2024-09-21,Jubail,Jalmudah,Commercial Unit,Commercial,267,1747000,6542,Resale
+EP-10436,2024-09-14,Jubail,Al Huwaylat,Apartment,Residential,174,930000,5344,Sale
+EP-10437,2024-09-02,Jubail,Al Huwaylat,Apartment,Residential,126,592000,4696,Sale
+EP-10438,2024-10-10,Khobar,Al Khuzama,Apartment,Residential,101,581000,5757,Sale
+EP-10439,2024-10-16,Khobar,Al Aqrabiyah,Apartment,Residential,191,1259000,6594,Resale
+EP-10440,2024-10-04,Khobar,Al Khuzama,Commercial Land,Commercial,637,3178000,4989,Resale
+EP-10441,2024-10-21,Khobar,Al Aqrabiyah,Apartment,Residential,116,722000,6221,Sale
+EP-10442,2024-10-14,Khobar,Al Aqrabiyah,Villa,Residential,588,2594000,4412,Sale
+EP-10443,2024-10-01,Khobar,Al Rakah,Residential Land,Residential,409,1321000,3229,Resale
+EP-10444,2024-10-27,Khobar,Al Olaya,Villa,Residential,408,2134000,5230,Sale
+EP-10445,2024-10-11,Khobar,Al Olaya,Apartment,Residential,158,1055000,6677,Sale
+EP-10446,2024-10-19,Khobar,Al Rakah,Residential Land,Residential,777,2848000,3665,Sale
+EP-10447,2024-10-06,Khobar,Al Rakah,Apartment,Residential,146,872000,5970,Resale
+EP-10448,2024-10-07,Khobar,Al Olaya,Apartment,Residential,127,797000,6274,Resale
+EP-10449,2024-10-12,Khobar,Corniche,Residential Land,Residential,442,1577000,3568,Resale
+EP-10450,2024-10-18,Khobar,Al Olaya,Commercial Land,Commercial,831,4598000,5533,Sale
+EP-10451,2024-10-15,Khobar,Corniche,Residential Land,Residential,330,1053000,3192,Sale
+EP-10452,2024-10-19,Khobar,Al Rakah,Villa,Residential,560,3047000,5441,Sale
+EP-10453,2024-10-13,Dammam,Al Badiyah,Commercial Unit,Commercial,323,2391000,7401,Sale
+EP-10454,2024-10-25,Dammam,Al Adamah,Residential Land,Residential,444,1328000,2990,Sale
+EP-10455,2024-10-09,Dammam,Al Shati,Apartment,Residential,169,795000,4702,Sale
+EP-10456,2024-10-01,Dammam,Al Manar,Apartment,Residential,192,938000,4887,Sale
+EP-10457,2024-10-15,Dammam,Al Manar,Commercial Unit,Commercial,273,1993000,7301,Sale
+EP-10458,2024-10-09,Dammam,Al Shati,Apartment,Residential,166,965000,5816,Sale
+EP-10459,2024-10-04,Dammam,Al Badiyah,Residential Land,Residential,766,2414000,3152,Sale
+EP-10460,2024-10-07,Dammam,Al Badiyah,Commercial Unit,Commercial,166,1430000,8616,Sale
+EP-10461,2024-10-14,Dammam,Al Faisaliyah,Commercial Land,Commercial,1453,5408000,3722,Sale
+EP-10462,2024-10-21,Dammam,Al Badiyah,Apartment,Residential,86,519000,6039,Sale
+EP-10463,2024-10-05,Dammam,Al Adamah,Apartment,Residential,164,913000,5568,Resale
+EP-10464,2024-10-02,Dammam,Al Badiyah,Commercial Unit,Commercial,141,1296000,9195,Resale
+EP-10465,2024-10-05,Dammam,Al Shati,Apartment,Residential,194,1038000,5348,Sale
+EP-10466,2024-10-26,Dammam,Al Faisaliyah,Villa,Residential,523,2418000,4623,Sale
+EP-10467,2024-10-07,Dammam,Al Adamah,Commercial Land,Commercial,1569,7548000,4811,Sale
+EP-10468,2024-10-06,Dammam,Al Adamah,Residential Land,Residential,494,1303000,2638,Sale
+EP-10469,2024-10-08,Dammam,Al Manar,Villa,Residential,632,3201000,5065,Resale
+EP-10470,2024-10-05,Dhahran,Doha,Apartment,Residential,184,1258000,6837,Resale
+EP-10471,2024-10-06,Dhahran,Al Qusur,Villa,Residential,268,1439000,5369,Resale
+EP-10472,2024-10-06,Dhahran,Doha,Residential Land,Residential,500,1818000,3637,Resale
+EP-10473,2024-10-06,Dhahran,Dana,Apartment,Residential,151,902000,5976,Sale
+EP-10474,2024-10-14,Dhahran,Dana,Apartment,Residential,108,638000,5906,Sale
+EP-10475,2024-10-12,Dhahran,Doha,Apartment,Residential,97,632000,6512,Sale
+EP-10476,2024-10-13,Dhahran,Al Qusur,Apartment,Residential,151,958000,6347,Sale
+EP-10477,2024-10-02,Dhahran,Doha,Residential Land,Residential,613,1822000,2972,Sale
+EP-10478,2024-10-08,Dhahran,University Area,Villa,Residential,260,1602000,6160,Resale
+EP-10479,2024-10-24,Jubail,Jubail Downtown,Apartment,Residential,190,942000,4957,Sale
+EP-10480,2024-10-01,Jubail,Jalmudah,Residential Land,Residential,511,1334000,2610,Sale
+EP-10481,2024-10-11,Jubail,Jalmudah,Residential Land,Residential,746,1767000,2368,Sale
+EP-10482,2024-10-21,Jubail,Jalmudah,Apartment,Residential,189,940000,4972,Sale
+EP-10483,2024-10-19,Jubail,Fanateer,Villa,Residential,372,1404000,3774,Sale
+EP-10484,2024-10-09,Jubail,Jalmudah,Commercial Land,Commercial,1036,4096000,3954,Sale
+EP-10485,2024-10-03,Jubail,Fanateer,Commercial Unit,Commercial,269,2067000,7683,Sale
+EP-10486,2024-10-23,Jubail,Al Huwaylat,Residential Land,Residential,518,1377000,2659,Resale
+EP-10487,2024-10-18,Jubail,Fanateer,Apartment,Residential,134,592000,4416,Sale
+EP-10488,2024-10-23,Jubail,Jalmudah,Villa,Residential,236,1087000,4607,Sale
+EP-10489,2024-11-14,Khobar,Al Olaya,Villa,Residential,559,2584000,4623,Sale
+EP-10490,2024-11-08,Khobar,Al Rakah,Villa,Residential,618,3443000,5572,Sale
+EP-10491,2024-11-19,Khobar,Al Khuzama,Commercial Unit,Commercial,346,3322000,9600,Resale
+EP-10492,2024-11-19,Khobar,Al Olaya,Apartment,Residential,112,716000,6394,Sale
+EP-10493,2024-11-01,Khobar,Al Olaya,Commercial Unit,Commercial,229,2058000,8988,Resale
+EP-10494,2024-11-19,Khobar,Al Rakah,Villa,Residential,574,3256000,5673,Sale
+EP-10495,2024-11-25,Khobar,Corniche,Residential Land,Residential,702,2238000,3188,Sale
+EP-10496,2024-11-18,Khobar,Al Aqrabiyah,Residential Land,Residential,308,1009000,3275,Resale
+EP-10497,2024-11-20,Khobar,Al Khuzama,Commercial Unit,Commercial,283,2460000,8691,Sale
+EP-10498,2024-11-02,Khobar,Corniche,Commercial Unit,Commercial,299,2677000,8954,Sale
+EP-10499,2024-11-14,Khobar,Corniche,Commercial Unit,Commercial,327,3514000,10747,Sale
+EP-10500,2024-11-16,Khobar,Al Olaya,Commercial Unit,Commercial,165,1445000,8757,Sale
+EP-10501,2024-11-04,Khobar,Al Aqrabiyah,Villa,Residential,634,3129000,4936,Resale
+EP-10502,2024-11-22,Khobar,Al Aqrabiyah,Residential Land,Residential,498,1630000,3274,Sale
+EP-10503,2024-11-19,Khobar,Al Khuzama,Apartment,Residential,116,738000,6364,Sale
+EP-10504,2024-11-26,Dammam,Al Manar,Commercial Land,Commercial,1392,6567000,4718,Sale
+EP-10505,2024-11-21,Dammam,Al Shati,Commercial Unit,Commercial,248,2085000,8406,Sale
+EP-10506,2024-11-12,Dammam,Al Faisaliyah,Residential Land,Residential,499,1229000,2462,Sale
+EP-10507,2024-11-09,Dammam,Al Shati,Commercial Land,Commercial,520,2481000,4772,Resale
+EP-10508,2024-11-19,Dammam,Al Adamah,Villa,Residential,305,1546000,5070,Sale
+EP-10509,2024-11-24,Dammam,Al Shati,Villa,Residential,433,1865000,4307,Resale
+EP-10510,2024-11-04,Dammam,Al Adamah,Villa,Residential,459,2154000,4692,Resale
+EP-10511,2024-11-21,Dammam,Al Shati,Apartment,Residential,147,711000,4839,Sale
+EP-10512,2024-11-10,Dammam,Al Badiyah,Apartment,Residential,191,1099000,5754,Sale
+EP-10513,2024-11-24,Dammam,Al Faisaliyah,Apartment,Residential,132,741000,5615,Sale
+EP-10514,2024-11-10,Dammam,Al Faisaliyah,Villa,Residential,294,1413000,4806,Sale
+EP-10515,2024-11-09,Dammam,Al Adamah,Apartment,Residential,162,894000,5516,Sale
+EP-10516,2024-11-08,Dammam,Al Manar,Villa,Residential,268,1166000,4350,Resale
+EP-10517,2024-11-10,Dammam,Al Adamah,Commercial Unit,Commercial,217,1829000,8430,Sale
+EP-10518,2024-11-16,Dammam,Al Manar,Villa,Residential,517,2623000,5073,Sale
+EP-10519,2024-11-08,Dammam,Al Adamah,Residential Land,Residential,790,2051000,2596,Sale
+EP-10520,2024-11-08,Dammam,Al Shati,Commercial Land,Commercial,825,3864000,4684,Sale
+EP-10521,2024-11-14,Dhahran,Dana,Villa,Residential,609,3024000,4966,Resale
+EP-10522,2024-11-25,Dhahran,Al Qusur,Apartment,Residential,108,693000,6420,Resale
+EP-10523,2024-11-05,Dhahran,Doha,Apartment,Residential,198,1345000,6792,Sale
+EP-10524,2024-11-07,Dhahran,Dana,Commercial Land,Commercial,512,2923000,5709,Sale
+EP-10525,2024-11-26,Dhahran,Dana,Apartment,Residential,184,1217000,6616,Sale
+EP-10526,2024-11-26,Dhahran,University Area,Apartment,Residential,125,944000,7553,Sale
+EP-10527,2024-11-12,Dhahran,Doha,Villa,Residential,618,3027000,4898,Sale
+EP-10528,2024-11-24,Dhahran,University Area,Apartment,Residential,129,801000,6208,Resale
+EP-10529,2024-11-21,Dhahran,Dana,Residential Land,Residential,322,1088000,3378,Resale
+EP-10530,2024-11-06,Jubail,Jalmudah,Commercial Unit,Commercial,168,1342000,7987,Resale
+EP-10531,2024-11-16,Jubail,Jalmudah,Apartment,Residential,191,933000,4885,Sale
+EP-10532,2024-11-13,Jubail,Fanateer,Commercial Land,Commercial,1114,3893000,3495,Resale
+EP-10533,2024-11-06,Jubail,Fanateer,Commercial Land,Commercial,854,3023000,3540,Resale
+EP-10534,2024-11-07,Jubail,Al Huwaylat,Apartment,Residential,181,920000,5081,Sale
+EP-10535,2024-11-13,Jubail,Fanateer,Villa,Residential,479,1788000,3732,Sale
+EP-10536,2024-11-03,Jubail,Al Huwaylat,Apartment,Residential,137,610000,4454,Resale
+EP-10537,2024-11-22,Jubail,Jalmudah,Apartment,Residential,123,602000,4892,Resale
+EP-10538,2024-11-08,Jubail,Al Huwaylat,Apartment,Residential,188,860000,4575,Sale
+EP-10539,2024-11-14,Jubail,Fanateer,Residential Land,Residential,494,1119000,2266,Resale
+EP-10540,2024-12-22,Khobar,Al Khuzama,Residential Land,Residential,752,2649000,3523,Sale
+EP-10541,2024-12-19,Khobar,Corniche,Residential Land,Residential,732,2550000,3484,Sale
+EP-10542,2024-12-01,Khobar,Al Aqrabiyah,Apartment,Residential,137,833000,6078,Sale
+EP-10543,2024-12-22,Khobar,Al Aqrabiyah,Commercial Unit,Commercial,117,1026000,8771,Sale
+EP-10544,2024-12-10,Khobar,Corniche,Apartment,Residential,195,1255000,6436,Sale
+EP-10545,2024-12-02,Khobar,Al Rakah,Apartment,Residential,199,1528000,7678,Sale
+EP-10546,2024-12-18,Khobar,Al Olaya,Residential Land,Residential,564,1698000,3010,Sale
+EP-10547,2024-12-25,Khobar,Al Rakah,Commercial Unit,Commercial,216,2296000,10628,Resale
+EP-10548,2024-12-18,Khobar,Corniche,Apartment,Residential,114,799000,7012,Sale
+EP-10549,2024-12-22,Khobar,Corniche,Residential Land,Residential,740,2719000,3674,Sale
+EP-10550,2024-12-16,Khobar,Al Olaya,Villa,Residential,415,2412000,5811,Sale
+EP-10551,2024-12-13,Khobar,Al Khuzama,Residential Land,Residential,648,2111000,3258,Sale
+EP-10552,2024-12-05,Khobar,Al Khuzama,Apartment,Residential,154,1046000,6791,Sale
+EP-10553,2024-12-03,Khobar,Al Aqrabiyah,Commercial Unit,Commercial,295,2992000,10144,Sale
+EP-10554,2024-12-05,Khobar,Al Olaya,Residential Land,Residential,487,1574000,3232,Sale
+EP-10555,2024-12-20,Dammam,Al Faisaliyah,Commercial Unit,Commercial,103,888000,8626,Sale
+EP-10556,2024-12-23,Dammam,Al Manar,Apartment,Residential,151,829000,5490,Sale
+EP-10557,2024-12-09,Dammam,Al Faisaliyah,Residential Land,Residential,873,2478000,2838,Sale
+EP-10558,2024-12-05,Dammam,Al Manar,Villa,Residential,547,2788000,5096,Sale
+EP-10559,2024-12-23,Dammam,Al Adamah,Villa,Residential,516,2332000,4519,Sale
+EP-10560,2024-12-06,Dammam,Al Manar,Residential Land,Residential,506,1517000,2998,Sale
+EP-10561,2024-12-24,Dammam,Al Faisaliyah,Apartment,Residential,186,988000,5313,Sale
+EP-10562,2024-12-03,Dammam,Al Faisaliyah,Apartment,Residential,96,579000,6031,Sale
+EP-10563,2024-12-18,Dammam,Al Shati,Residential Land,Residential,468,1441000,3080,Resale
+EP-10564,2024-12-22,Dammam,Al Shati,Residential Land,Residential,589,1479000,2511,Sale
+EP-10565,2024-12-01,Dammam,Al Shati,Apartment,Residential,134,764000,5704,Sale
+EP-10566,2024-12-06,Dammam,Al Faisaliyah,Residential Land,Residential,787,2135000,2713,Resale
+EP-10567,2024-12-13,Dammam,Al Shati,Apartment,Residential,122,691000,5661,Sale
+EP-10568,2024-12-21,Dammam,Al Manar,Apartment,Residential,92,535000,5815,Sale
+EP-10569,2024-12-11,Dammam,Al Adamah,Residential Land,Residential,737,2371000,3217,Sale
+EP-10570,2024-12-19,Dammam,Al Badiyah,Commercial Unit,Commercial,237,1886000,7958,Sale
+EP-10571,2024-12-04,Dammam,Al Faisaliyah,Villa,Residential,356,1468000,4123,Sale
+EP-10572,2024-12-24,Dhahran,University Area,Commercial Unit,Commercial,328,3830000,11678,Sale
+EP-10573,2024-12-21,Dhahran,Al Qusur,Villa,Residential,298,1595000,5353,Sale
+EP-10574,2024-12-01,Dhahran,University Area,Residential Land,Residential,352,1197000,3400,Sale
+EP-10575,2024-12-14,Dhahran,University Area,Villa,Residential,594,3246000,5465,Sale
+EP-10576,2024-12-07,Dhahran,Doha,Residential Land,Residential,693,2432000,3509,Sale
+EP-10577,2024-12-26,Dhahran,Al Qusur,Commercial Land,Commercial,1164,6478000,5565,Sale
+EP-10578,2024-12-22,Dhahran,Al Qusur,Apartment,Residential,101,696000,6893,Sale
+EP-10579,2024-12-10,Dhahran,Dana,Residential Land,Residential,392,1391000,3548,Sale
+EP-10580,2024-12-11,Dhahran,Doha,Residential Land,Residential,391,1236000,3161,Sale
+EP-10581,2024-12-01,Dhahran,University Area,Commercial Unit,Commercial,345,3926000,11379,Sale
+EP-10582,2024-12-03,Jubail,Jubail Downtown,Commercial Unit,Commercial,241,2034000,8441,Sale
+EP-10583,2024-12-10,Jubail,Jalmudah,Residential Land,Residential,587,1458000,2484,Sale
+EP-10584,2024-12-27,Jubail,Jalmudah,Apartment,Residential,106,629000,5933,Resale
+EP-10585,2024-12-04,Jubail,Fanateer,Residential Land,Residential,707,1594000,2254,Sale
+EP-10586,2024-12-15,Jubail,Jalmudah,Apartment,Residential,150,808000,5387,Sale
+EP-10587,2024-12-20,Jubail,Jubail Downtown,Commercial Unit,Commercial,127,1031000,8121,Sale
+EP-10588,2024-12-16,Jubail,Jalmudah,Residential Land,Residential,620,1632000,2632,Sale
+EP-10589,2024-12-05,Jubail,Jubail Downtown,Villa,Residential,383,1706000,4454,Sale
+EP-10590,2024-12-17,Jubail,Jalmudah,Apartment,Residential,199,987000,4960,Sale
+EP-10591,2024-12-22,Jubail,Fanateer,Apartment,Residential,187,1040000,5564,Resale
+EP-10592,2024-12-01,Jubail,Jalmudah,Villa,Residential,629,2503000,3980,Sale

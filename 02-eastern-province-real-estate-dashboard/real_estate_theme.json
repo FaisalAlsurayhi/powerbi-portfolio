@@ -1,0 +1,43 @@
+{
+  "name": "Eastern Province Real Estate",
+  "dataColors": [
+    "#0B5D4D",
+    "#1F4E79",
+    "#C8A24A",
+    "#6B7280",
+    "#2E8B57",
+    "#4B77BE",
+    "#A67C00",
+    "#9CA3AF"
+  ],
+  "background": "#F7F8FA",
+  "foreground": "#1F2933",
+  "tableAccent": "#0B5D4D",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#1F2933"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1F2933"
+              }
+            },
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
