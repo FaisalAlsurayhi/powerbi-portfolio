@@ -55,13 +55,13 @@ This page looks deeper into property categories. It includes KPIs, property type
 
 | File | Purpose |
 | --- | --- |
-| `data/eastern-province-real-estate-dashboard.pbix` | Finished Power BI dashboard file |
-| `data/eastern_province_real_estate_transactions.csv` | Synthetic transaction-level dataset |
-| `real_estate_theme.json` | Power BI theme file used for the dashboard style |
-| `generate_dataset.py` | Script used to create the synthetic dataset |
-| `docs/DAX_MEASURES.md` | DAX measures used in the report |
-| `docs/POWER_BI_BUILD_GUIDE.md` | Notes from the build process |
-| `docs/PROJECT_BRIEF.md` | Project idea and business questions |
+| data/eastern-province-real-estate-dashboard.pbix | Finished Power BI dashboard file |
+| data/eastern_province_real_estate_transactions.csv | Synthetic transaction-level dataset |
+| real_estate_theme.json | Power BI theme file used for the dashboard style |
+| generate_dataset.py | Script used to create the synthetic dataset |
+| docs/DAX_MEASURES.md | DAX measures used in the report |
+| docs/POWER_BI_BUILD_GUIDE.md | Notes from the build process |
+| docs/PROJECT_BRIEF.md | Project idea and business questions |
 
 ## How To Open
 
