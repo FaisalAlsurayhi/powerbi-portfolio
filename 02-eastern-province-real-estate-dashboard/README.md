@@ -31,6 +31,20 @@ This page compares Dammam, Khobar, Dhahran, and Jubail by sales value, transacti
 
 This page looks deeper into property categories. It includes KPIs, property type trends, a price versus area scatter plot, a decomposition tree, and transaction mix.
 
+## Screenshots
+
+### Executive Overview
+
+![Executive Overview](screenshots/01-executive-overview.png)
+
+### City Comparison
+
+![City Comparison](screenshots/02-city-comparison.png)
+
+### Property Type Analysis
+
+![Property Type Analysis](screenshots/03-property-type-analysis.png)
+
 ## Key Insights
 
 - Residential properties make up the largest share of total sales value.
