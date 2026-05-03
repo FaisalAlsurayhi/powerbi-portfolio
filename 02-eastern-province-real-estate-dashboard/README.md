@@ -1,8 +1,6 @@
 # Eastern Province Real Estate Market Dashboard
 
-This is my second Power BI dashboard project. I built it to practice turning transaction-level real estate data into a cleaner business dashboard with pages for executive overview, city comparison, and property type analysis.
-
-The project focuses on Eastern Province cities: Dammam, Khobar, Dhahran, and Jubail.
+A three-page Power BI dashboard analyzing transaction-level real estate data across Eastern Province cities: Dammam, Khobar, Dhahran, and Jubail. The report focuses on sales value, transaction activity, pricing, and property mix.
 
 ## Tools Used
 
@@ -47,11 +45,11 @@ This page looks deeper into property categories. It includes KPIs, property type
 
 ## Key Insights
 
-- Residential properties make up the largest share of total sales value.
-- Apartments have the highest transaction activity.
-- Dammam and Khobar lead the market by total sales value.
-- Higher-area properties generally show higher sale prices, which is clear in the scatter plots.
-- Monthly sales value was stronger in the second half of the year, with the highest month near the end of the year.
+- Residential properties drive about 63% of total sales value, while commercial properties make up the remaining 37%.
+- Apartments lead transaction activity with 221 transactions, showing stronger demand for smaller residential units.
+- Dammam and Khobar are the strongest cities by sales value, with Dammam slightly ahead at about SAR 333M.
+- Dhahran has the highest average price per square meter at about SAR 5.9K, even though it has fewer transactions than Dammam and Khobar.
+- Monthly sales value peaked in November at about SAR 99M, with stronger activity in the second half of the year.
 
 ## Files
 
